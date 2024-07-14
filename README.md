@@ -1,2 +1,5 @@
-imu calibration matrix via a factor graph 
+
+calibrate transform 
 between lidar and imu
+via a factor graph optimization
+
